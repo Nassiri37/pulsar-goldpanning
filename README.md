@@ -19,7 +19,7 @@ add the item into ox_inventory/data/pulsar-items/labor
 		weight = 3.0,
 	},
 
-Add the image into ox-inventory/web/images
+Add the image into ox_inventory/web/images
 
 # Credits
 I dont remember who made it but if you did reach out so I can credit you
