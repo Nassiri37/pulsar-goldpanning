@@ -23,5 +23,5 @@ Add the image into ox_inventory/web/images
 
 # Credits
 
-[Nolix](https://github.com/NolixAU) - crearing the original script
+[Nolix](https://github.com/NolixAU) - creating the original script
 
