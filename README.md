@@ -22,4 +22,6 @@ add the item into ox_inventory/data/pulsar-items/labor
 Add the image into ox_inventory/web/images
 
 # Credits
-Credits to Nolix for creating the original script
+
+[Nolix](https://github.com/NolixAU) - crearing the original script
+
